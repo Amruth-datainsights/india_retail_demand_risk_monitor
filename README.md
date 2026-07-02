@@ -61,7 +61,8 @@ india-retail-demand-risk-monitor
 
 ## 📊 Dashboard Preview
 
-(Add your dashboard screenshot here after uploading it to GitHub.)
+<img width="1050" height="588" alt="Dashboard" src="https://github.com/user-attachments/assets/85cd5e6e-4e7b-4305-8539-f45c8fde29ba" />
+
 
 ---
 
